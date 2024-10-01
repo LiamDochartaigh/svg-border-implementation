@@ -1,0 +1,12 @@
+#main{
+  fill: #00d395;
+  mask: url(#mainMask);
+}
+
+#mainCutOff{
+  fill: black;
+}
+
+#mainBounds{
+  fill: white;
+}
